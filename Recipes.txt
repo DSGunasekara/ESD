@@ -3,3 +3,5 @@ SLIIT Kitchen
 Chicken
 Pizza
 Pasta
+
+Rice and Curry
